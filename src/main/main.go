@@ -8,7 +8,7 @@ import (
 func main() {
 	fmt.Println("start...")
 
-	cachePath := "../cache/storage"
+	cachePath := "../../cache/storage"
 
 	fmt.Println("Input content:")
 
